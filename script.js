@@ -1,3 +1,3 @@
 window.addEventListener("load", (event) => {
-  console.log("Page loaded")
+  document.getElementById("text").innerHTML = "JS executed"
 })
